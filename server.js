@@ -16,6 +16,14 @@ app.get("/", (req, res) => {
   res.send("Hello Technigo!");
 });
 
+//A endpoint to the NatalPage 2 
+app.get("/natal", (req, res) => {
+  res.send("Hello Natal Page!");
+});
+
+
+
+
 // Start the server
 app.listen(port, () => {
   console.log(`Server running on http://localhost:${port}`);
