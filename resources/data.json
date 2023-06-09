@@ -1,5 +1,5 @@
 {
-    "zodiacSigns": [
+  "zodiacSigns": [
       {
         "name": "Aries",
         "period": "March 21 - April 19",
@@ -9,7 +9,8 @@
         "house": "1st House, House of Self, Physical Body, Personality, Appearance, First Impression and First Response",
         "rulingPlanet": "Mars",
         "bodypart": "Head",
-        "moon": "Aries, is very impulsive and impatient. They are quick to anger and quick to forgive. They are very passionate and can be very aggressive. They are very competitive and love to win. They are very independent and love to be the leader.",
+        "ascendant": "Aries Rising individuals project an aura of confidence and assertiveness. They often have a strong and dynamic physical presence that commands attention. They are known for their boldness and enthusiasm in approaching life. Aries Rising individuals possess a pioneering spirit and are natural-born leaders who are not afraid to take risks and initiate action. They exude a sense of independence and can be seen as trailblazers in their endeavors. Their passionate and energetic nature makes them stand out in a crowd.",
+        "moon": "Aries Moon individuals have a strong need for emotional independence and freedom. They value their autonomy and can feel suffocated or restless in relationships that restrict their personal freedom. They seek emotional excitement and crave new experiences to feel fulfilled on an emotional level.",
         "traits": [
           "Bold",
           "Courageous",
@@ -44,7 +45,8 @@
         "house": "2nd House, House of Possessions, Materialism, Money, Self-Worth and Sense of Security",
         "rulingPlanet": "Venus",
         "bodypart": "Neck and Throat",
-        "moon": "Taurus, is very stubborn and determined. They are very loyal and dependable. They are very sensual and love to be pampered. They are very patient and practical. They are very hardworking and love to be comfortable.",
+        "ascendant": "Taurus Rising individuals have a calm and steady presence. They project an air of reliability and dependability. Taurus Rising individuals are often characterized by their strong physical presence and sensual charm. They value stability and security, seeking comfort and luxury in their surroundings. They have a patient and persevering nature, taking a steady and methodical approach to achieve their goals. Taurus Rising individuals can be quite resilient and possess a grounded and practical perspective in their interactions with the world.",
+        "moon": "Taurus Moon individuals have a deep-rooted need for stability and security in their emotional lives. They seek comfort, reliability, and consistency in their relationships and surroundings. They are known for their strong emotional resilience and their ability to provide a steady and nurturing presence for others.",
         "traits": [
           "Sensual",
           "Patient",
@@ -80,7 +82,8 @@
         "house": "3rd House, House of Communication, Siblings, Short-distance Travel, House of Intellect and Knowledge",
         "rulingPlanet": "Mercury",
         "bodypart": "Hands, Arms, Shoulders and Lungs",
-        "moon": "Gemini, is very curious and versatile. They are very social and love to talk. They are very witty and charming. They are very intelligent and love to learn. They are very adaptable and love to travel.",
+        "ascendant": "Gemini Rising individuals possess a lively and curious demeanor. They are often seen as sociable and adaptable, easily engaging with others in various settings. Gemini Rising individuals have a youthful and playful energy, with a quick wit and a talent for communication. They have a natural charm that allows them to make connections easily and engage in stimulating conversations. They enjoy variety and may have multiple interests or hobbies. Gemini Rising individuals are known for their intellectual curiosity and their ability to see multiple perspectives on any given situation.",
+        "moon": "Gemini Moon individuals have a versatile and adaptable emotional nature. They possess a curious and inquisitive mind, constantly seeking mental stimulation and variety in their emotional experiences. They may have a tendency to overthink their emotions and may appear emotionally detached at times, as they process their feelings through the lens of their intellect.",
         "traits": [
           "Versatile",
           "Curious",
@@ -116,7 +119,8 @@
         "house": "4th House, House of Home and Family, Roots and Ancestors, Emotions and Motherhood",
         "rulingPlanet": "Moon",
         "bodypart": "Breasts and Stomach",
-        "moon": "Cancer, is very emotional and sensitive. They are very nurturing and caring. They are very intuitive and psychic. They are very protective and defensive. They are very loyal and love to be needed.",
+        "ascendant": "Cancer Rising individuals have a nurturing and compassionate presence. They project an aura of sensitivity and emotional depth. Cancer Rising individuals are often deeply connected to their roots and have a strong sense of family and home. They are known for their caring and protective nature, often taking on the role of a caretaker in their relationships. They may have a gentle and approachable demeanor that makes others feel comfortable and safe in their presence. Cancer Rising individuals have a natural intuition and can easily pick up on the emotions and needs of those around them.",
+        "moon": "Cancer Moon individuals are very emotional and sensitive. They are very nurturing and love to take care of others. They are very loyal and love to be loyal. They are very imaginative and love to be creative. They are very protective and love to be protective.",
         "traits": [
           "Nurturing",
           "Sensitive",
@@ -150,7 +154,8 @@
         "house": "5th House, House of Pleasure, Creativity, Children, Romance, Self-Expression and Ego",
         "rulingPlanet": "Sun",
         "bodypart": "Heart and Spine",
-        "moon": "Leo, is very dramatic and creative. They are very generous and warm-hearted. They are very loyal and protective. They are very confident and love to be the center of attention. They are very ambitious and love to be admired.",
+        "ascendant": "Leo Rising individuals possess a confident and charismatic presence. They exude an air of self-assurance and radiate with enthusiasm and warmth. Leo Rising individuals often have a strong physical presence, with a commanding and regal aura. They enjoy being the center of attention and have a natural flair for drama and self-expression. Their vibrant and playful energy draws others to them, and they have a natural ability to inspire and uplift those around them. Leo Rising individuals have a magnetic charm and are often seen as natural-born leaders who bring a sense of excitement and vitality to any situation.",
+        "moon": "Leo Moon individuals have a radiant and expressive emotional nature. They seek recognition and validation for their emotions and desire to be seen and admired for their unique qualities. They have a flair for drama and may display a theatrical or dramatic style in expressing their emotions. They are fiercely loyal and protective of their loved ones, often taking on a leadership role in their relationships.",
         "traits": [
           "Confident",
           "Romantic",
@@ -184,7 +189,8 @@
         "house": "6th House, House of Health, Service, Work, Daily Habits and Routines",
         "rulingPlanet": "Mercury",
         "bodypart": "Digestive System",
-        "moon": "Virgo, is very practical and analytical. They are very intelligent and love to learn. They are very hardworking and love to be of service. They are very organized and love to be efficient. They are very modest and love to be helpful.",
+        "ascendant": "Virgo Rising individuals have a calm and composed demeanor. They project an aura of practicality and attention to detail. Virgo Rising individuals are known for their sharp observation skills and analytical mindset. They have a strong desire for order and efficiency in their surroundings. They often appear well-groomed and put-together, paying attention to the smallest details. Virgo Rising individuals have a service-oriented nature, and they derive satisfaction from helping others and offering practical advice. They may have a reserved and modest demeanor but possess a keen intellect and a willingness to be of assistance.",
+        "moon": "Leo Moon individuals have a natural flair for drama and self-expression. They possess a deep need to be seen and appreciated for their emotional uniqueness. They radiate warmth, enthusiasm, and passion, and their emotions can be intense and vibrant. They often have a strong desire for attention and recognition, and they thrive when their emotional contributions are acknowledged and celebrated.",
         "traits": [
           "Analytical",
           "Practical",
@@ -217,7 +223,8 @@
         "house": "7th House, House of Partnership, Marriage, Commitment and Open Enemies",
         "rulingPlanet": "Venus",
         "bodypart": "Lower Back and Buttocks",
-        "moon": "Libra, is very charming and diplomatic. They are very romantic and love to be in love. They are very idealistic and love to be fair. They are very sociable and love to be around people. They are very indecisive and love to be balanced.",
+        "ascendant": "Libra Rising individuals have a charming and diplomatic presence. They exude an aura of harmony and balance. Libra Rising individuals are known for their refined taste and appreciation for beauty. They have a natural sense of style and often pay attention to their physical appearance. They possess excellent social skills and have a knack for creating and maintaining harmonious relationships. Libra Rising individuals strive for fairness and justice, seeking to create a peaceful and cooperative atmosphere in their interactions with others. They have a natural ability to see different perspectives and find common ground in conflicts.",
+        "moon": "Libra Moon individuals have a deep need for harmony and balance in their emotional lives. They value peace, fairness, and cooperation in their relationships. They are skilled at seeing different perspectives and strive for compromise and diplomacy when it comes to emotional matters. They have a natural affinity for beauty and aesthetics, and they often seek to create harmonious environments that reflect their inner sense of balance.",
         "traits": [
           "Diplomatic",
           "Charming",
@@ -251,7 +258,8 @@
         "house": "8th House, House of Reincarnation, Death, Sex, Transformation and Mysteries",
         "rulingPlanet": "Pluto",
         "bodypart": "Reproductive Organs",
-        "moon": "Scorpio, is very intense and passionate. They are very emotional and sensitive. They are very mysterious and secretive. They are very powerful and love to be in control. They are very loyal and love to be in control.",
+        "ascendant": "Scorpio Rising individuals possess an intense and magnetic presence. They exude an air of mystery and depth. Scorpio Rising individuals have a penetrating gaze and a powerful aura that draws others in. They have a strong will and determination, often pursuing their goals with unwavering focus. Scorpio Rising individuals value authenticity and have a natural ability to see through facades. They possess strong intuition and can easily sense the hidden emotions and motivations of others. They have a transformative nature, often experiencing profound personal growth throughout their lives",
+        "moon": "Scorpio Moon individuals have intense and transformative emotions. They experience emotions on a profound level and are not afraid to dive into the depths of their feelings. They possess incredible emotional strength and resilience, capable of navigating through intense emotional situations. They have a natural ability to perceive hidden truths and may have strong intuitive and psychic abilities. Trust and loyalty are paramount to them in relationships, and they value deep emotional connections with others.",
         "traits": [
           "Passionate",
           "Powerful",
@@ -288,7 +296,8 @@
         "house": "9th House, House of Philosophy, Higher Education, Travel and Spirituality",
         "rulingPlanet": "Jupiter",
         "bodypart": "Hips and Thighs",
-        "moon": "Sagittarius, is very optimistic and enthusiastic. They are very adventurous and love to travel. They are very honest and love to be free. They are very intellectual and love to learn. They are very independent and love to be the leader.",
+        "ascendant": "Sagittarius Rising individuals have an optimistic and adventurous presence. They exude an aura of enthusiasm and exploration. Sagittarius Rising individuals have a natural curiosity and a love for learning. They possess a free-spirited and open-minded nature, always seeking new experiences and knowledge. They have a philosophical outlook on life and often engage in deep conversations about life's meaning and purpose. Sagittarius Rising individuals are known for their sense of humor and their ability to bring laughter and lightheartedness to any situation. They have a contagious enthusiasm that inspires those around them.",
+        "moon": "Sagittarius Moon individuals have a free-spirited and adventurous emotional nature. They possess an optimistic outlook on life and a desire for exploration and expansion. They seek emotional freedom and value their independence greatly. They have a love for learning and may have a philosophical or spiritual bent to their emotions. They are open-minded, honest, and have a contagious enthusiasm that can inspire others around them.",
         "traits": [
           "Adventurous",
           "Optimistic",
@@ -321,7 +330,8 @@
         "house": "10th House, House of Social Status, Career, Public Reputation and Responsibility",
         "rulingPlanet": "Saturn",
         "bodypart": "Knees",
-        "moon": "Capricorn, is very ambitious and disciplined. They are very patient and practical. They are very responsible and love to be in control. They are very traditional and love to be organized. They are very serious and love to be respected.",
+        "ascendant": "Capricorn Rising individuals have a composed and responsible presence. They exude an air of maturity and ambition. Capricorn Rising individuals are known for their strong work ethic and dedication to achieving their goals. They possess a natural sense of structure and organization. They project an aura of authority and often have a commanding presence. Capricorn Rising individuals value stability and long-term success, often taking a practical and calculated approach to their endeavors. They have a keen sense of responsibility and may assume leadership roles in their personal and professional lives.",
+        "moon": "Capricorn Moon individuals have a practical and disciplined approach to their emotions. They have a strong sense of responsibility and a need for structure and stability in their emotional lives. They often display a mature and reserved demeanor, carefully managing their emotions and showing great self-control. They are ambitious and hardworking, driven by a desire for success and achievement. They value tradition and may have a deep respect for authority and rules. Building a solid foundation and achieving long-term security are important to them in their emotional journey.",
         "traits": [
           "Responsible",
           "Very intelligent",
@@ -354,6 +364,7 @@
         "house": "11th House, House of Friendships, Society, Politics, Humanity and Inventions",
         "rulingPlanet": "Uranus",
         "bodypart": "Ankles and Shins",
+        "ascendant": "Aquarius Rising individuals have a unique and eccentric presence. They exude an air of individuality and originality. Aquarius Rising individuals are known for their progressive and forward-thinking mindset. They possess a strong sense of social justice and often champion causes related to equality and humanitarianism. They have a natural affinity for innovation and may have a distinct personal style that sets them apart. Aquarius Rising individuals value freedom and independence, often forging their own path and challenging traditional norms. They have a friendly and approachable demeanor and enjoy engaging in intellectually stimulating conversations.",
         "moon": "Aquarius, is very independent and original. They are very intellectual and love to learn. They are very friendly and love to be around people. They are very humanitarian and love to be unique. They are very rebellious and love to be different.",
         "traits": [
           "Independent",
@@ -386,7 +397,8 @@
         "house": "12th House, House of Subconscious, Illusions, Dreams, Secrets and all things kept hidden",
         "rulingPlanet": "Neptune",
         "bodypart": "Feet",
-        "moon": "Pisces, is very sensitive and compassionate. They are very imaginative and creative. They are very intuitive and psychic. They are very romantic and love to be in love. They are very spiritual and love to be helpful.",
+        "ascendant": "Pisces Rising individuals have a gentle and compassionate presence. They exude an aura of empathy and sensitivity. Pisces Rising individuals are known for their intuitive and psychic abilities. They possess a deep connection to the emotional undercurrents around them and often have a profound understanding of others' feelings. They have a dreamy and imaginative nature, often displaying creative talents. Pisces Rising individuals have a natural inclination towards spirituality and may seek solace in introspection and introspective practices. They have a calming presence that can make others feel at ease in their presence.",
+        "moon": "Pisces Moon individuals have a deep and intuitive emotional nature. They are highly empathetic and sensitive to the emotions of others. They possess a rich imagination and a dreamy, poetic quality to their emotions. They have a natural ability to connect with the spiritual and mystical realms, often displaying psychic or intuitive abilities. They are compassionate and selfless, often putting the needs of others before their own. They may seek solace in creative outlets and have a deep appreciation for art, music, and all forms of beauty.",
         "traits": [
           "Compassionate",
           "Intellectual",
