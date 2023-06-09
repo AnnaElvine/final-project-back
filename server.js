@@ -17,8 +17,8 @@ app.get("/", (req, res) => {
 });
 
 //A endpoint to the NatalPage 2 
-app.get("/natal", (req, res) => {
-  res.send("Hello Natal Page!");
+app.get("/deg", (req, res) => {
+  res.send("Hello Degge Page!");
 });
 
 

@@ -1,0 +1,191 @@
+{
+    "zodiacSigns": [
+      {
+        "name": "Aries",
+        "symbol": "♈",
+        "element": "Fire",
+        "Quality": "Cardinal: Initiation and assertiveness and dynamic energy",
+        "house": "1st House, House of Self, Physical Body, Personality, Appearance, First Impression and First Response",
+        "rulingPlanet": "Mars",
+        "bodypart": "Head",
+        "traits": [
+          "Bold",
+          "Courageous",
+          "Adventurous",
+          "Energetic"
+        ]
+      },
+      {
+        "name": "Taurus",
+        "symbol": "♉",
+        "element": "Earth",
+        "Quality": "Fixed: Resistance to change and great willpower",
+        "house": "2nd House, House of Possessions, Materialism, Money, Self-Worth and Sense of Security",
+        "rulingPlanet": "Venus",
+        "bodypart": "Neck and Throat",
+        "traits": [
+          "Patient",
+          "Determined",
+          "Practical",
+          "Sensual"
+        ]
+      },
+      {
+        "name": "Gemini",
+        "symbol": "♊",
+        "element": "Air",
+        "Quality": "Mutable: Flexibility, adaptability and an ability to change and adjust to circumstances",
+        "house": "3rd House, House of Communication, Siblings, Short-distance Travel, House of Intellect and Knowledge",
+        "rulingPlanet": "Mercury",
+        "bodypart": "Hands, Arms, Shoulders and Lungs",
+        "traits": [
+          "Versatile",
+          "Curious",
+          "Witty",
+          "Social"
+        ]
+      },
+      {
+        "name": "Cancer",
+        "symbol": "♋",
+        "element": "Water",
+        "Quality": "Cardinal: Initiation and assertiveness and dynamic energy",
+        "house": "4th House, House of Home and Family, Roots and Ancestors, Emotions and Motherhood",
+        "rulingPlanet": "Moon",
+        "bodypart": "Breasts and Stomach",
+        "traits": [
+          "Nurturing",
+          "Sensitive",
+          "Intuitive",
+          "Emotional"
+        ]
+      },
+      {
+        "name": "Leo",
+        "symbol": "♌",
+        "element": "Fire",
+        "Quality": "Fixed: Resistance to change and great willpower",
+        "house": "5th House, House of Pleasure, Creativity, Children, Romance, Self-Expression and Ego",
+        "rulingPlanet": "Sun",
+        "bodypart": "Heart and Spine",
+        "traits": [
+          "Confident",
+          "Generous",
+          "Charismatic",
+          "Dramatic"
+        ]
+      },
+      {
+        "name": "Virgo",
+        "symbol": "♍",
+        "element": "Earth",
+        "Quality": "Mutable: Flexibility, adaptability and an ability to change and adjust to circumstances",
+        "house": "6th House, House of Health, Service, Work, Daily Habits and Routines",
+        "rulingPlanet": "Mercury",
+        "bodypart": "Digestive System",
+        "traits": [
+          "Analytical",
+          "Practical",
+          "Detail-oriented",
+          "Modest"
+        ]
+      },
+      {
+        "name": "Libra",
+        "symbol": "♎",
+        "element": "Air",
+        "Quality": "Cardinal: Initiation and assertiveness and dynamic energy",
+        "house": "7th House, House of Partnership, Marriage, Commitment and Open Enemies",
+        "rulingPlanet": "Venus",
+        "bodypart": "Lower Back and Buttocks",
+        "traits": [
+          "Diplomatic",
+          "Charming",
+          "Harmonious",
+          "Social"
+        ]
+      },
+      {
+        "name": "Scorpio",
+        "symbol": "♏",
+        "element": "Water", 
+        "Quality": "Fixed: Resistance to change and great willpower",
+        "house": "8th House, House of Reincarnation, Death, Sex, Transformation and Mysteries",
+        "rulingPlanet": "Pluto",
+        "bodypart": "Reproductive Organs",
+        "traits": [
+          "Passionate",
+          "Mysterious",
+          "Intense",
+          "Ambitious"
+        ]
+      },
+      {
+        "name": "Sagittarius",
+        "symbol": "♐",
+        "element": "Fire",
+        "Quality" : "Mutable: Flexibility, adaptability and an ability to change and adjust to circumstances",
+        "house": "9th House, House of Philosophy, Higher Education, Travel and Spirituality",
+        "rulingPlanet": "Jupiter",
+        "bodypart": "Hips and Thighs",
+        "traits": [
+          "Adventurous",
+          "Optimistic",
+          "Generous",
+          "Philosophical"
+        ]
+      },
+      {
+        "name": "Capricorn",
+        "symbol": "♑",
+        "element": "Earth",
+        "Quality": "Cardinal: Initiation and assertiveness and dynamic energy",
+        "house": "10th House, House of Social Status, Career, Public Reputation and Responsibility",
+        "rulingPlanet": "Saturn",
+        "bodypart": "Knees",
+        "traits": [
+          "Responsible",
+          "Disciplined",
+          "Ambitious",
+          "Practical"
+        ]
+      },
+      {
+        "name": "Aquarius",
+        "symbol": "♒",
+        "element": "Air",
+        "Quality": "Fixed: Resistance to change and great willpower",
+        "house": "11th House, House of Friendships, Society, Politics, Humanity and Inventions",
+        "rulingPlanet": "Uranus",
+        "bodypart": "Ankles and Shins",
+        "traits": [
+          "Independent",
+          "Intellectual",
+          "Inventive",
+          "Rebellious",
+          "Ambitious",
+          "Responsible",
+          "Friendly"
+        ]
+      },
+      {
+        "name": "Pisces",
+        "symbol": "♓",
+        "element": "Water",
+        "Quality": "Mutable: Flexibility, adaptability and an ability to change and adjust to circumstances",
+        "house": "12th House, House of Subconscious, Illusions, Dreams, Secrets and all things kept hidden",
+        "rulingPlanet": "Neptune",
+        "bodypart": "Feet",
+        "traits": [
+          "Compassionate",
+          "Intellectual",
+          "Inventive",
+          "Artistic",
+          "Intuitive",
+          "Sensitive",
+          "Friendly"
+        ]
+      }
+    ]
+    }
+  
