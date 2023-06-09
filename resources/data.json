@@ -2,190 +2,412 @@
     "zodiacSigns": [
       {
         "name": "Aries",
+        "period": "March 21 - April 19",
         "symbol": "♈",
         "element": "Fire",
         "Quality": "Cardinal: Initiation and assertiveness and dynamic energy",
         "house": "1st House, House of Self, Physical Body, Personality, Appearance, First Impression and First Response",
         "rulingPlanet": "Mars",
         "bodypart": "Head",
+        "moon": "Aries, is very impulsive and impatient. They are quick to anger and quick to forgive. They are very passionate and can be very aggressive. They are very competitive and love to win. They are very independent and love to be the leader.",
         "traits": [
           "Bold",
           "Courageous",
           "Adventurous",
+          "Confident",
+          "Passionate",
+          "Enthusiastic",
+          "Independent",
+          "Competitive",
           "Energetic"
-        ]
+        ],
+        "weaknesses": [
+          "Extremly egoistic",
+          "Very Impulsive",
+          "Impatient",
+          "Aggressive",
+          "Dramatic",
+          "Selfish",
+          "Childish",
+          "Bossy",
+          "Short tempered",
+          "Friendly"
+          ]
       },
+
       {
         "name": "Taurus",
+        "period": "April 20 - May 20",
         "symbol": "♉",
         "element": "Earth",
         "Quality": "Fixed: Resistance to change and great willpower",
         "house": "2nd House, House of Possessions, Materialism, Money, Self-Worth and Sense of Security",
         "rulingPlanet": "Venus",
         "bodypart": "Neck and Throat",
+        "moon": "Taurus, is very stubborn and determined. They are very loyal and dependable. They are very sensual and love to be pampered. They are very patient and practical. They are very hardworking and love to be comfortable.",
         "traits": [
+          "Sensual",
           "Patient",
           "Determined",
-          "Practical",
-          "Sensual"
-        ]
+          "Food Lover",
+          "Loyal",
+          "Dependable",
+          "Hardworking",
+          "Ambitious",
+          "Practical"
+        ],
+        "weaknesses": [
+            "Extreme stubborn",
+            "Moody",
+            "Possessive",
+            "Afraid of change",
+            "Materialistic",
+            "Self-indulging",
+            "Conflict avoidant",
+            "Inflexible",
+            "Uncompromising",
+            "Controlling",
+            "Jealous"
+          ]
       },
+
       {
         "name": "Gemini",
+        "period": "May 21 - June 20",
         "symbol": "♊",
         "element": "Air",
         "Quality": "Mutable: Flexibility, adaptability and an ability to change and adjust to circumstances",
         "house": "3rd House, House of Communication, Siblings, Short-distance Travel, House of Intellect and Knowledge",
         "rulingPlanet": "Mercury",
         "bodypart": "Hands, Arms, Shoulders and Lungs",
+        "moon": "Gemini, is very curious and versatile. They are very social and love to talk. They are very witty and charming. They are very intelligent and love to learn. They are very adaptable and love to travel.",
         "traits": [
           "Versatile",
           "Curious",
+          "Adaptable",
+          "Street Smart",
+          "Free Spirit",
+          "Very intellectual",
           "Witty",
+          "Funny",
+          "Charming",
           "Social"
-        ]
+        ],
+        "weaknesses": [
+            "Two faced",
+            "Gossipy",
+            "Indecisive",
+            "Irresponsible",
+            "Non realiable",
+            "Impatient",
+            "Aggressive",
+            "Unemotional",
+            "Stubborn",
+            "Unpredictable"
+          ]
       },
+
       {
         "name": "Cancer",
+        "period": "June 21 - July 22",
         "symbol": "♋",
         "element": "Water",
         "Quality": "Cardinal: Initiation and assertiveness and dynamic energy",
         "house": "4th House, House of Home and Family, Roots and Ancestors, Emotions and Motherhood",
         "rulingPlanet": "Moon",
         "bodypart": "Breasts and Stomach",
+        "moon": "Cancer, is very emotional and sensitive. They are very nurturing and caring. They are very intuitive and psychic. They are very protective and defensive. They are very loyal and love to be needed.",
         "traits": [
           "Nurturing",
           "Sensitive",
+          "Protective",
           "Intuitive",
+          "Very Loving",
+          "Imaginative",
+          "Cautious",
           "Emotional"
-        ]
+        ],
+        "weaknesses": [
+            "Moody",
+            "Pessimistic",
+            "Insecure",
+            "Manipulative",
+            "Clingy",
+            "Self-pitying",
+            "Overly sensitive",
+            "Over dramatic",
+            "Explosive",
+            "Friendly"
+          ]
       },
+
       {
         "name": "Leo",
+        "period": "July 23 - August 22",
         "symbol": "♌",
         "element": "Fire",
         "Quality": "Fixed: Resistance to change and great willpower",
         "house": "5th House, House of Pleasure, Creativity, Children, Romance, Self-Expression and Ego",
         "rulingPlanet": "Sun",
         "bodypart": "Heart and Spine",
+        "moon": "Leo, is very dramatic and creative. They are very generous and warm-hearted. They are very loyal and protective. They are very confident and love to be the center of attention. They are very ambitious and love to be admired.",
         "traits": [
           "Confident",
+          "Romantic",
+          "Creative",
           "Generous",
+          "Warm-hearted",
+          "Cheerful",
+          "Humorous",
           "Charismatic",
-          "Dramatic"
-        ]
+          "Passionate"
+        ],
+        "weaknesses": [
+            "Very dramatic",
+            "Arrogant",
+            "Stubborn",
+            "Self-centered",
+            "Lazy",
+            "Jealous",
+            "Inflexible",
+            "Possessive",
+            "Dominating"
+          ]
       },
+
       {
         "name": "Virgo",
+        "period": "August 23 - September 22",
         "symbol": "♍",
         "element": "Earth",
         "Quality": "Mutable: Flexibility, adaptability and an ability to change and adjust to circumstances",
         "house": "6th House, House of Health, Service, Work, Daily Habits and Routines",
         "rulingPlanet": "Mercury",
         "bodypart": "Digestive System",
+        "moon": "Virgo, is very practical and analytical. They are very intelligent and love to learn. They are very hardworking and love to be of service. They are very organized and love to be efficient. They are very modest and love to be helpful.",
         "traits": [
           "Analytical",
           "Practical",
           "Detail-oriented",
+          "Intelligent",
+          "Communicative",
+          "Loyal",
+          "Hardworking",
+          "Helpful",
           "Modest"
-        ]
+        ],
+        "weaknesses": [
+            "Judgemental",
+            "Workaholic",
+            "Perfectionist",
+            "Overly critical",
+            "Conservative",
+            "Worrying",
+            "High expectations on self",
+            "Overly analytical"
+          ]
       },
+
       {
         "name": "Libra",
+        "period": "September 23 - October 22",
         "symbol": "♎",
         "element": "Air",
         "Quality": "Cardinal: Initiation and assertiveness and dynamic energy",
         "house": "7th House, House of Partnership, Marriage, Commitment and Open Enemies",
         "rulingPlanet": "Venus",
         "bodypart": "Lower Back and Buttocks",
+        "moon": "Libra, is very charming and diplomatic. They are very romantic and love to be in love. They are very idealistic and love to be fair. They are very sociable and love to be around people. They are very indecisive and love to be balanced.",
         "traits": [
           "Diplomatic",
           "Charming",
+          "Confident",
+          "Easy Going",
           "Harmonious",
+          "Analytical",
+          "Romantic",
+          "Smart",
           "Social"
-        ]
+        ],
+        "weaknesses": [
+            "Need of attention and approval",
+            "Indecisive",
+            "Non confrontational",
+            "Self pity",
+            "Lazy",
+            "Superficial",
+            "Vain",
+            "Manipulative",
+            "Unreliable"
+          ]
       },
+
       {
         "name": "Scorpio",
+        "period": "October 23 - November 21",
         "symbol": "♏",
         "element": "Water", 
         "Quality": "Fixed: Resistance to change and great willpower",
         "house": "8th House, House of Reincarnation, Death, Sex, Transformation and Mysteries",
         "rulingPlanet": "Pluto",
         "bodypart": "Reproductive Organs",
+        "moon": "Scorpio, is very intense and passionate. They are very emotional and sensitive. They are very mysterious and secretive. They are very powerful and love to be in control. They are very loyal and love to be in control.",
         "traits": [
           "Passionate",
+          "Powerful",
+          "Loyal",
+          "Sexual",
           "Mysterious",
+          "Intuitive",
           "Intense",
-          "Ambitious"
-        ]
+          "Ambitious",
+          "Stubborn",
+          "Observant",
+          "Emotional"
+        ],
+        "weaknesses": [
+            "Obsessive",
+            "Possessive",
+            "Stalker",
+            "Suspicious",
+            "Jealous",
+            "Manipulative",
+            "Resentful",
+            "Black and white thinking",
+            "Unforgiving",
+            "Egoistic"
+          ]
       },
+
       {
         "name": "Sagittarius",
+        "period": "November 22 - December 21",
         "symbol": "♐",
         "element": "Fire",
         "Quality" : "Mutable: Flexibility, adaptability and an ability to change and adjust to circumstances",
         "house": "9th House, House of Philosophy, Higher Education, Travel and Spirituality",
         "rulingPlanet": "Jupiter",
         "bodypart": "Hips and Thighs",
+        "moon": "Sagittarius, is very optimistic and enthusiastic. They are very adventurous and love to travel. They are very honest and love to be free. They are very intellectual and love to learn. They are very independent and love to be the leader.",
         "traits": [
           "Adventurous",
           "Optimistic",
           "Generous",
+          "Wild",
+          "Charismatic",
+          "Open minded",
+          "Free Spirit",
+          "Easy Going",
           "Philosophical"
-        ]
+        ],
+        "weaknesses": [
+            "Non realistic",
+            "Irresponsible",
+            "Non realiable",
+            "Impatient",
+            "Aggressive",
+            "Blunt",
+            "Inconsistent",
+            "Unemotional"
+          ]
       },
+
       {
         "name": "Capricorn",
+        "period": "December 22 - January 19",
         "symbol": "♑",
         "element": "Earth",
         "Quality": "Cardinal: Initiation and assertiveness and dynamic energy",
         "house": "10th House, House of Social Status, Career, Public Reputation and Responsibility",
         "rulingPlanet": "Saturn",
         "bodypart": "Knees",
+        "moon": "Capricorn, is very ambitious and disciplined. They are very patient and practical. They are very responsible and love to be in control. They are very traditional and love to be organized. They are very serious and love to be respected.",
         "traits": [
           "Responsible",
+          "Very intelligent",
           "Disciplined",
+          "Independent",
           "Ambitious",
+          "Funny", 
+          "Knows how to have fun",
+          "entrperneurial",
           "Practical"
-        ]
+        ],
+        "weaknesses": [
+            "Can't take criticism",
+            "Extreme stubborn",
+            "Unemotional",
+            "Sarcastic",
+            "Temperamental",
+            "Money driven",
+            "To high expectations on others and self",
+            "Unforgiving"
+          ]
       },
+
       {
         "name": "Aquarius",
+        "period": "January 20 - February 18",
         "symbol": "♒",
         "element": "Air",
         "Quality": "Fixed: Resistance to change and great willpower",
         "house": "11th House, House of Friendships, Society, Politics, Humanity and Inventions",
         "rulingPlanet": "Uranus",
         "bodypart": "Ankles and Shins",
+        "moon": "Aquarius, is very independent and original. They are very intellectual and love to learn. They are very friendly and love to be around people. They are very humanitarian and love to be unique. They are very rebellious and love to be different.",
         "traits": [
           "Independent",
           "Intellectual",
           "Inventive",
           "Rebellious",
+          "Historical",
           "Ambitious",
+          "Confident",
           "Responsible",
           "Friendly"
-        ]
+        ],
+        "weaknesses": [
+            "Stubborn",
+            "Unemotional",
+            "Sarcastic",
+            "Extreme conflit avoidant",
+            "Temperamental",
+            "Unpredictable",
+            "Friendly"
+          ]
       },
+
       {
         "name": "Pisces",
+        "period": "February 19 - March 20",
         "symbol": "♓",
         "element": "Water",
         "Quality": "Mutable: Flexibility, adaptability and an ability to change and adjust to circumstances",
         "house": "12th House, House of Subconscious, Illusions, Dreams, Secrets and all things kept hidden",
         "rulingPlanet": "Neptune",
         "bodypart": "Feet",
+        "moon": "Pisces, is very sensitive and compassionate. They are very imaginative and creative. They are very intuitive and psychic. They are very romantic and love to be in love. They are very spiritual and love to be helpful.",
         "traits": [
           "Compassionate",
           "Intellectual",
-          "Inventive",
+          "Patient",
           "Artistic",
+          "Dreamy",
+          "Imaginative",
           "Intuitive",
           "Sensitive",
           "Friendly"
-        ]
+        ],
+        "weaknesses": [
+            "Sneaky",
+            "Indecisive",
+            "Escapist",
+            "Dramatic",
+            "Weak-willed",
+            "Over-sensitive",
+            "Easily led",
+            "Can be a victim or martyr"
+          ]
       }
     ]
     }
-  
