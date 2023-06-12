@@ -3,6 +3,10 @@
       {
         "name": "Aries",
         "period": "March 21 - April 19",
+        "month": [
+          "March",
+          "April"
+        ],
         "symbol": "♈",
         "element": "Fire",
         "Quality": "Cardinal: Initiation and assertiveness and dynamic energy",
