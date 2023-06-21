@@ -10,19 +10,42 @@ console.log(data);
 const port = process.env.PORT || 8080;
 const app = express();
 
+
 // Add middlewares to enable cors and json body parsing
 app.use(cors());
 app.use(express.json());
+
+
+
+// Function to handle the fetch request
+const fetchZodiacSign = () => {
+  const dob = dobInput.value; // Get the date of birth from the input field
+
+  // Make the fetch request to the server
+  fetch(`/zodiacSigns/${dob}`)
+    .then((response) => response.json())
+    .then((data) => {
+      const zodiacSign = data.zodiacSign;
+      console.log(`Your zodiac sign is: ${zodiacSign}`);
+      // Do something with the zodiac sign data
+    })
+    .catch((error) => {
+      console.log("Error fetching zodiac sign:", error);
+    });
+};
+
+// Example usage: Call the fetchZodiacSign function when a button with id "fetchButton" is clicked
+const fetchButton = document.getElementById("fetchButton");
+fetchButton.addEventListener("click", fetchZodiacSign);
+
+
+
 
 // Start defining your routes here
 app.get("/", (req, res) => {
   res.send("Hello Mr Bond, I've been expecting you!");
 });
 
-//A endpoint to the NatalPage 2 
-/*app.get("/deg", (req, res) => {
-  res.send("Hello Degge Page!");
-}); */
 
 app.get("/zodiacSigns", (req, res) => {
   res.json(data); // this is the data from the json file
@@ -49,11 +72,23 @@ app.get("/zodiacSigns/:dob", (req, res) => {
   };
 
 
-  const zodiacSign = findSign(date);
 // find function
+  const zodiacSign = findSign(date);
+
+  console.log(zodiacSign)
+  res.json({ zodiacSign })
+});
+
+//A endpoint to the NatalPage 2
+app.get("/zodiacSigns/:id", (req, res) => {
+  const { id } = req.params;
+  const zodiacSign = data.zodiacSigns.find(item => item.id === +id);
+
 
 var result = data.zodiacSigns.find(item => item.id === 2);
-console.log(data.zodiacSigns)
+console.log(data.zodiacSigns) 
+console.log(result)
+
 
   res.json({ zodiacSign })
 });
