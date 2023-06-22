@@ -35,8 +35,9 @@ const fetchZodiacSign = () => {
 };
 
 // Example usage: Call the fetchZodiacSign function when a button with id "fetchButton" is clicked
-const fetchButton = document.getElementById("fetchButton");
+/*const fetchButton = document.getElementById("fetchButton");
 fetchButton.addEventListener("click", fetchZodiacSign);
+*/
 
 
 
@@ -77,7 +78,44 @@ app.get("/zodiacSigns/:dob", (req, res) => {
 
   console.log(zodiacSign)
   res.json({ zodiacSign })
-});
+}); 
+
+const findSign = (date) => {
+  const days = [20, 19, 21, 20, 21, 21, 23, 23, 23, 23, 22, 22]; // Updated days array
+  const signs = [
+    { id: 1, name: "Aquarius" },
+    { id: 2, name: "Pisces" },
+    { id: 3, name: "Aries" },
+    { id: 4, name: "Taurus" },
+    { id: 5, name: "Gemini" },
+    { id: 6, name: "Cancer" },
+    { id: 7, name: "Leo" },
+    { id: 8, name: "Virgo" },
+    { id: 9, name: "Libra" },
+    { id: 10, name: "Scorpio" },
+    { id: 11, name: "Sagittarius" },
+    { id: 12, name: "Capricorn" }
+  ];
+  
+  let month = date.getMonth();
+  let day = date.getDate();
+
+  if (day < days[month]) {
+    month--;
+    if (month < 0) {
+      month = 11;
+    }
+  }
+
+  return signs.find((sign) => sign.id === month + 1);
+};
+
+
+
+
+
+
+
 
 //A endpoint to the NatalPage 2
 app.get("/zodiacSigns/:id", (req, res) => {
